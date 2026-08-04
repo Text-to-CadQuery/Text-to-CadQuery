@@ -1,6 +1,6 @@
 # Text-to-CadQuery
 
-This repository supports our NeurIPS submission on generating **CadQuery-based 3D models from natural language**, building on the foundations of **Text2CAD** and **DeepCAD**. It includes data annotation, model training, inference, and evaluation pipelines across six open-source LLMs.
+This repository supports our IEEE T-ASE submission, building on the foundations of **Text2CAD** and **DeepCAD**. It includes data annotation, model training, inference, and evaluation pipelines across six open-source LLMs.
 
 ## Repository Structure
 
